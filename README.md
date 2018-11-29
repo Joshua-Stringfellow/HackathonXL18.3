@@ -50,7 +50,7 @@ other______
 6) Do you feel like you have control over your responsibilities at work?
 -completly dissagree
 -dissagree
--nuetral
+-neutral
 -agree
 -completly agree
 
