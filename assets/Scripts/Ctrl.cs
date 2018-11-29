@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class Ctrl : MonoBehaviour
@@ -17,5 +18,20 @@ public class Ctrl : MonoBehaviour
             transform.position += Vector3.up * speed * Time.deltaTime;
         if (Input.GetKey(KeyCode.DownArrow))
             transform.position += Vector3.down * speed * Time.deltaTime;
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Elevator")
+        {
+            ElevatorTransition();
+        }
+    }
+
+    private void ElevatorTransition()
+    {
+        GameManager.instance.playerCanMove = false;
+        // TODO: Stop clock
+        SceneManager.LoadScene("Elevator");
     }
 }

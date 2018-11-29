@@ -6,6 +6,7 @@ public class GameManager : MonoBehaviour {
 
     public static GameManager instance = null;
     public bool playerCanMove = true; // Set GameManager.instance.playerCanMove to false from anywhere to disable player movement
+    // TODO: add clock implementation
 
     // SET INITIAL SCORES HERE
 
