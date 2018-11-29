@@ -41,7 +41,7 @@ Questions
 -7-8 hours
 -9-12 hours
 
-5)How do you feel today (select all that apply) 
+5) How do you feel today (select all that apply) 
 anxious
 tired
 irratable
@@ -78,4 +78,11 @@ Calm down:
 -stretch! Not only can stretching help your mind refresh, sitting for long periods of time can cause physical pain which can be mentally distracting; even if you are not consciously aware of it. 
 
 Wake up:
--Take a walk. It's likely that your parents tried to get you to go outside every day growing up. Well, they may not have done a formal study, but they knew what they were talking about. The combination of physical exercise and fresh air is crucial to mental processes.  
+-Take a walk. It's likely that your parents tried to get you to go outside every day growing up. Well, they may not have done a formal study, but they knew what they were talking about. The combination of physical exercise and fresh air is crucial to mental processes.
+
+Badges:
+Super Chill: iced coffee icon, when player scores as less stressed than before after playing the game
+Coffee Addict: player frequently plays game
+Power Breaker: Espresso shot icon, player takes effective breaks a lot
+Wired: player has high energy, moves fast
+Travel Mug: to-go cup icon, player explored a lot of the map during gameplay
