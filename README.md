@@ -67,15 +67,15 @@ Disclaimer: This app is intended to assess your stress and exhaustion levels thr
 
 Jobs in the technology field are of the most mentally taxing in the world. Science suggests that people take short 3-5 min breaks about every 53 mins throughout the day. It is important that these breaks are completely seperate from the work you are taking a break from. A lot of people take "fake breaks" that actually leave them dwelling on challenging problems, increasing their exhaustion and lead to burn out and even feelings of inadequecy. 
 
-Our games combine visuals, auditory stimuli and psychological research to asses your stress levels inorder to adiquitly help you improve your attitude int he work place and feel better about your abilities. You may even find yourself acomplishing a greater deal of mindful work and solving problems that you may normally find challenging. 
+Our games combine visuals, auditory stimuli and psychological research to assess your stress levels in order to adequately help you improve your attitude in the work place and feel better about your abilities. You may even find yourself accomplishing a greater deal of mindful work and solving problems that you may normally find challenging. 
 
 
 Tips for improvement:
 
 Calm down:
 -Do not eat at your desk. Like eating in your bed, eating at your desk actually increases the stress that many people experience throughout their work day. Instead, try taking a complete break from work to go down to the cafeteria to eat your snack. Taking the time to focus on a meal(even a small one) can even help you feel more satisfied after eating and could help you cut back on the desire to snack so much in the first place.
--take a breath. Make sure to step back from your tasks to focus on your breathing. Simply taking a few even, mindful breaths can help get more oxigen to your brain and boost your ability to problemsolve 
--stretch! Not only can stretching help your mind refresh, sitting for long periods of time can cause physical pain which can be mentally distracting; even if you are not contiously aware of it. 
+-take a breath. Make sure to step back from your tasks to focus on your breathing. Simply taking a few even, mindful breaths can help get more oxygen to your brain and boost your ability to problem-solve 
+-stretch! Not only can stretching help your mind refresh, sitting for long periods of time can cause physical pain which can be mentally distracting; even if you are not consciously aware of it. 
 
 Wake up:
--Take a walk. It's likely that your parents tried to get you to go outside every daya growing up. Well, they may not have done a formal study, but they knew what they were talking about. The combonation of physical exercise and fresh air is crutial to mental processes.  
+-Take a walk. It's likely that your parents tried to get you to go outside every day growing up. Well, they may not have done a formal study, but they knew what they were talking about. The combination of physical exercise and fresh air is crucial to mental processes.  
