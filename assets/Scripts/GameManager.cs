@@ -5,6 +5,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour {
 
     public static GameManager instance = null;
+    public bool playerCanMove = true; // Set GameManager.instance.playerCanMove to false from anywhere to disable player movement
 
     // SET INITIAL SCORES HERE
 

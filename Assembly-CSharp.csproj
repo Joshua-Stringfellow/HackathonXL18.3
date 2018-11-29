@@ -61,13 +61,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\BackForthMove.cs" />
-    <Compile Include="Assets\Scripts\Boss.cs" />
-    <Compile Include="Assets\Scripts\CompleteCameraController.cs" />
-    <Compile Include="Assets\Scripts\Ctrl.cs" />
-    <Compile Include="Assets\Scripts\GameManager.cs" />
-    <Compile Include="Assets\Scripts\SceneChange.cs" />
-    <None Include="Assets\tmp.txt" />
+    <Compile Include="assets\Scripts\BackForthMove.cs" />
+    <Compile Include="assets\Scripts\Boss.cs" />
+    <Compile Include="assets\Scripts\CompleteCameraController.cs" />
+    <Compile Include="assets\Scripts\Ctrl.cs" />
+    <Compile Include="assets\Scripts\GameManager.cs" />
+    <Compile Include="assets\Scripts\SceneChange.cs" />
+    <None Include="assets\tmp.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/graha/OneDrive/Documents/Hackathon/HackathonXL18.3/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
