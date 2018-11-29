@@ -41,7 +41,7 @@ Questions
 -7-8 hours
 -9-12 hours
 
-5)How do ypu feel today (select all that apply) 
+5)How do you feel today (select all that apply) 
 anxious
 tired
 irratable
@@ -52,20 +52,20 @@ angry
 other______
 
 6) Do you feel like you have control over your responsibilities at work?
--completly dissagree
--dissagree
+-completly disagree
+-disagree
 -neutral
 -agree
--completly agree
+-completely agree
 
 Are there any major events that may be impacting your productivity today? (optional) 
 
 scoring: 0-8, 9-16, 17-24, 25-31
 
 
-Disclaimer: This app is intended to asses your stress and exhaustion levels throughout the work day and help you increase productivity on the job through a short self-assment questionare and stimulus enhancing game play. The best way to insure accurate results is to submurse yourself into a completly quiet, distraction free enviornment. Headphones are also benifitial to insure you get the full effect of all the carefully planned stimuli presented throughout the game. We recomend taking game breaks at 9 am and 1 pm.
+Disclaimer: This app is intended to assess your stress and exhaustion levels throughout the work day and help you increase productivity on the job through a short self-assessment questionnaire and stimulus enhancing game play. The best way to ensure accurate results is to submerse yourself into a completly quiet, distraction free enviornment. Headphones are also beneficial to ensure you get the full effect of all the carefully planned stimuli presented throughout the game. We recomend taking game breaks at 9 am and 1 pm.
 
-Jobs in technology field are of the most mentally taxing in the world. Science suggests that people take short 3-5 min breaks about every 53 mins throughout the day. It is important that these breaks are completly seperate from the work you are taking a break from. A lot of people take "fake breaks" that actually leave them dwelling on challenging problems, increasing their exhaustion and lead to burn out and even feelings of inadiquicy. 
+Jobs in the technology field are of the most mentally taxing in the world. Science suggests that people take short 3-5 min breaks about every 53 mins throughout the day. It is important that these breaks are completely seperate from the work you are taking a break from. A lot of people take "fake breaks" that actually leave them dwelling on challenging problems, increasing their exhaustion and lead to burn out and even feelings of inadequecy. 
 
 Our games combine visuals, auditory stimuli and psychological research to asses your stress levels inorder to adiquitly help you improve your attitude int he work place and feel better about your abilities. You may even find yourself acomplishing a greater deal of mindful work and solving problems that you may normally find challenging. 
 
@@ -73,7 +73,7 @@ Our games combine visuals, auditory stimuli and psychological research to asses 
 Tips for improvement:
 
 Calm down:
--Do not eat at your desk. Like eating in your bed, eating at your desk actually increases the stress that many people experience throughout their work day. Instead, try taking a complete break from work to go down to the caffiteria to eat your snack. Taking the time to focus on a meal(even a small one) can even help you feel more satisfied after eating and could help you cut back on the desire to snack so much in the first place.
+-Do not eat at your desk. Like eating in your bed, eating at your desk actually increases the stress that many people experience throughout their work day. Instead, try taking a complete break from work to go down to the cafeteria to eat your snack. Taking the time to focus on a meal(even a small one) can even help you feel more satisfied after eating and could help you cut back on the desire to snack so much in the first place.
 -take a breath. Make sure to step back from your tasks to focus on your breathing. Simply taking a few even, mindful breaths can help get more oxigen to your brain and boost your ability to problemsolve 
 -stretch! Not only can stretching help your mind refresh, sitting for long periods of time can cause physical pain which can be mentally distracting; even if you are not contiously aware of it. 
 
