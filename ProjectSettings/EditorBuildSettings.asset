@@ -5,7 +5,43 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/2cda990e2423bbf4892e6590ba056729
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Persistant.unity
+    guid: 987c93a47289a4f45adf143bf135da42
+  - enabled: 1
+    path: Assets/Scenes/MenuScreen.unity
+    guid: 85d8b61c0c24abc448fe13a761bf60ab
+  - enabled: 1
+    path: Assets/Scenes/Question1.unity
+    guid: 35e74580494c63a46a5d84397241e59a
+  - enabled: 1
+    path: Assets/Scenes/Question2.unity
+    guid: b5b4fff9ad66a3b438a78dac458414e4
+  - enabled: 1
+    path: Assets/Scenes/Question3.unity
+    guid: 6cede6e21372909419ce699badb9d46b
+  - enabled: 1
+    path: Assets/Scenes/Question4.unity
+    guid: 4b2b17e3b56a1154da8bf9945267f34b
+  - enabled: 1
+    path: Assets/Scenes/Question5.unity
+    guid: 3cb6a16d382d862459adec1681e83036
+  - enabled: 1
+    path: Assets/Scenes/Question6.unity
+    guid: 8f74c6df48851634c8a7ec1c7cb9d878
+  - enabled: 1
+    path: Assets/Scenes/Floor 2.unity
+    guid: b48f107650010984c88c8852fcc7e0e6
+  - enabled: 1
+    path: Assets/Scenes/Floor 3.unity
+    guid: a15d884d362a59344a65078ba97ad429
+  - enabled: 1
+    path: Assets/Scenes/Floor 4.unity
+    guid: b6086ba1e234efc4689c6d8903c9199c
+  - enabled: 1
+    path: Assets/Scenes/Floor 5.unity
+    guid: 655b3f54221b5664088c5b07df1b8af0
   m_configObjects: {}
