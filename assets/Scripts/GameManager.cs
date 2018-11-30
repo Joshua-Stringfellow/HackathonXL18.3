@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour {
 
+    public int points = 0;
     public static GameManager instance = null;
-    public bool playerCanMove = true; // Set GameManager.instance.playerCanMove to false from anywhere to disable player movement
+    private bool playerCanMove = true;
     // TODO: add clock implementation
 
     // SET INITIAL SCORES HERE
@@ -30,4 +31,21 @@ public class GameManager : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    public void FreezePlayer()
+    {
+        playerCanMove = false;
+        // TODO: stop the clock
+    }
+
+    public void UnfreezePlayer()
+    {
+        playerCanMove = true;
+        // TODO: restart the clock
+    }
+
+    public bool PlayerCanMove()
+    {
+        return playerCanMove;
+    }
 }
