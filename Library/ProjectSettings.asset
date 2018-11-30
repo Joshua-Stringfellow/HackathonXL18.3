@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 774f0ae87b6f79546b2f5b05911276b1
+  productGUID: 3dec845ab3b321a4a8ab70833edb0bda
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: UNITY PROJECT TEST
+  productName: HackathonXL18.3
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -619,9 +619,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: f8c6c1cb-f137-45e1-98b6-2afee4ed749b
-  projectName: UNITY PROJECT TEST
-  organizationId: kbank
+  cloudProjectId: 77f85208-8479-44f0-9e17-1e6960060ea1
+  projectName: HackathonXL18.3
+  organizationId: grahamporter03
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

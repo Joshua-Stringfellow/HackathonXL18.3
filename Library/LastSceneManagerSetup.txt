@@ -2,3 +2,18 @@ sceneSetups:
 - path: Assets/Scenes/Floor 2.unity
   isLoaded: 1
   isActive: 1
+- path: assets/Scenes/Elevator.unity
+  isLoaded: 0
+  isActive: 0
+- path: assets/Scenes/Floor 3.unity
+  isLoaded: 0
+  isActive: 0
+- path: assets/Scenes/Floor 4.unity
+  isLoaded: 0
+  isActive: 0
+- path: assets/Scenes/Floor 5.unity
+  isLoaded: 0
+  isActive: 0
+- path: assets/Scenes/Loading.unity
+  isLoaded: 0
+  isActive: 0
