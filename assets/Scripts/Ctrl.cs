@@ -6,9 +6,14 @@ public class Ctrl : MonoBehaviour
 {
     public float speed = 1.5f;
 
+    void Start()
+    {
+        GameManager.instance.UnfreezePlayer();
+    }
+
     void Update()
     {
-        if (!GameManager.instance.playerCanMove) return;
+        if (!GameManager.instance.PlayerCanMove()) return;
 
         if (Input.GetKey(KeyCode.LeftArrow))
         {
@@ -34,12 +39,15 @@ public class Ctrl : MonoBehaviour
         {
             ElevatorTransition();
         }
+        if (collision.tag == "Obstacle")
+        {
+            GameManager.instance.points += 2;
+        }
     }
 
     private void ElevatorTransition()
     {
-        GameManager.instance.playerCanMove = false;
-        // TODO: Stop clock
+        GameManager.instance.FreezePlayer();
         SceneManager.LoadScene("Elevator");
     }
 }

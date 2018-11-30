@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Boss
   - Elevator
+  - Obstacle
   layers:
   - Default
   - TransparentFX

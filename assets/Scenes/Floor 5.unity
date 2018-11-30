@@ -1049,7 +1049,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5737ebe05d2b5064a876c927ad8ad75a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerCanMove: 1
 --- !u!4 &279519077
 Transform:
   m_ObjectHideFlags: 0
@@ -2331,9 +2330,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ee78c90b97ffc045a45e44302c78f62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  floatHeight: 0
-  liftForce: 0
-  damping: 0
 --- !u!1 &609533495
 GameObject:
   m_ObjectHideFlags: 0
